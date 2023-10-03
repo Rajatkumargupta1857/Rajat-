@@ -18,9 +18,9 @@ function Header() {
         <FaSearch className='text-slate-500'/>
       </form>
 
-      <ul className='flex gap-4'>
+      <ul className='flex gap-4 '>
         <Link to='/'>
-        <li className='hidden sm:inline hover:underline'>Home</li>
+        <li className='hidden sm:inline hover:underline '>Home</li>
         </Link>
         <Link to='/About'>
         <li className='hidden sm:inline hover:underline'>About</li>
